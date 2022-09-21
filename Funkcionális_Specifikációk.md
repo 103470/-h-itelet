@@ -36,9 +36,12 @@ A projektünk teljesen ingyenes és nem igényel regisztrációt, így nem zárj
 
 A projektünk eleget tesz a legfrissebb 2022-es szabványoknak így tartalmazni fogja az azok által előírt funkciókat.
 
+7. Képernyőterv
+
+![asd drawio](https://user-images.githubusercontent.com/113610538/191433773-89816925-c2ef-4b96-9857-d7128a57db61.png)
 
 
-7. Fogslomszótár
+8. Fogslomszótár
 
 Survey-questioner: Kérdőív angolul
 
