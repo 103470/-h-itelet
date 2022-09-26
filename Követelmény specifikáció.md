@@ -19,7 +19,7 @@ A csapatunk célja, hogy létrehozzunk egy olyan alkalmazást, amely ingyenes, r
 
 4. Funkcionális követelmények
 
-Az alkalmazás funkcionálisan nem bonyolult. Egy böngészőre van szükség ami támogatja a Javascriptet. A felhasználó miután összerakta kérdőívét, azt letöltheti vagy link-ként megoszthatja.
+Az alkalmazás funkcionálisan nem bonyolult. Egy böngészőre van szükség ami támogatja a Php-t. A felhasználó miután összerakta kérdőívét, azt letöltheti vagy link-ként megoszthatja.
 
 5. Rendszerre vonatkozó törvények, szabványok, ajánlások
 
@@ -36,7 +36,7 @@ Azért, hogy egy komfortosabb és kölcsönös érjünk el a felhasználókkal, 
 
 
 
-8. Fogslomszótár
+8. Fogalomszótár
 
 Survey-questioner: Kérdőív angolul
 
