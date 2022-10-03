@@ -23,33 +23,38 @@ Rendszetervek
  - A weboldal használatához egy egyszerű böngészőre van szükség.
  - Megszakításmentes felhasználói élmény.
  
-4, Funkcionális terv
+4,Üzleti folyamatok modellje
+
+![ábra drawio](https://user-images.githubusercontent.com/113610538/193619940-d47416ba-3dfd-4a4d-81cf-11d8c93a24e7.png)
+
+ 
+5, Funkcionális terv
  Rendszerszereplők: Felhasználó: Rendszerünknek nincs más szereplője, csak a felhasználó, mert nincs értelme több, pl. egy admin szereplő
  hozzáadásának, A felhasználó adatok megadásával tudja szerkeszteni a kérdőívet.
 
-5, Fizikai környezet
+6, Fizikai környezet
  A rendszer fejlesztése HTML/CSS valamint PHP segítségével történik.
     A weblap felépítése, valamint dizájnolása a HTML/CSS nyelv implementálásával valósítandó meg.
  A weboldal használatához egy egyszerű böngészőre van szükség.
  A rendszer bármilyen operációs rendszeren és böngészőben haszálható lesz, valamint telefonról is.
 
-6, Architecturális terv
+7, Architecturális terv
  A rendszerhez mindössze egy webböngészőre van szükség, amely képes PHP kódot futtatni. 
  Mivel az egész a kliens oldalon fut, akár a HTML fájl megnyitásával futtatható az alkalmazás.
 
-7, Teszt terv
+8, Teszt terv
  Az alkalmazás elkészítése során szükség van a folyamatos tesztelésre. Tesztelni kell a gombok működését, valamint az adatok változásait
 
  Unit teszt: 2022.10.03: Metódusok működése és működésének biztosítása teszt során megtörtént és hiba nélkül lefutott.
  - Magos Balázs Alpha teszt: 2022.10.01: A projektet leteszteltük Mozilla Firefox, Google Chrome és Microsoft Edge környezetben, kisebb vizuális torzulással de működését megőrizte.
  - Kémeri Martin, Magos Balázs Béta: 2022.10.03: A projekt letesztelése különböző böngészőkben, különböző felbontásokban és telefonon, kisebb vizuális torzulás de a funkciók működése megmaradt.
 
-8, Telepítési terv
+9, Telepítési terv
  Az alkalmazás futtatásához egy általános felhasználású böngészőre van szükség, nem igényel külön telepítést.
 
-9, Karbantartási terv
+10, Karbantartási terv
  Az alkalmazás bővítési lehetőségét fenntartjuk.
 
-10, Implementációs terv
+11, Implementációs terv
  A felület HTML és CSS nyelven fog készülni valamint PHP-t is felhasználunk az alkalmazás készítéséhez. 
  A jobb átláthatóság és a továbbfejleszthetőség érdekében elkülönítve szeretnénk kezelni ezeket a technológiákat és utólag kapcsoljuk össze őket.
