@@ -10,16 +10,15 @@ Egy olyan kliens oldali alkalmazást fejlesztünk, ami az interneten elterjedt k
 
 2. Jelenlegi helyzet
 
-A megrendelő szeretne egy letisztult oldallal rendelkező, ingyenes, letöltést nem igénylő Survey-questioner alkalmazást ami nem szerver függő. A rendszer lehetőséget nyújt azoknak, akiknek nem áll módjukban fizetni hasonló szolgáltatásokért és/vagy nem hajlandóak megosztani adataikat, azzal veszélynek kitéve azokat.
-
+A megrendelő szeretne egy letisztult oldallal rendelkező, ingyenes, letöltést nem igénylő Survey-questionert, ami nem szerver függő. A rendszer lehetőséget nyújt a felhasználók számára, hogy megosszák véleményüket a megrendelővel, aki a felhasználók válaszai alapján szeretné fejleszteni meglévő weboldalát.
 
 3. Vágyálom rendszer
 
-A csapatunk célja, hogy létrehozzunk egy olyan alkalmazást, amely ingyenes, regisztrációmentes és letisztult felület, amely könnyen kezelhető bármely felhasználó számára. A felhasználó hozzáadhat különbőző kérdéseket amelyeket a célközönség az alatta leő szövegdobozban készőbb megválaszolhat, található benne feleletválasztós rész is, de olyan eleme is van ahol a célközönség saját véleményét is megfogalmazhatja.
+A csapatunk célja, hogy létrehozzunk egy olyan alkalmazást, amely ingyenes, regisztrációmentes és letisztult felület, amely könnyen kezelhető bármely felhasználó számára. Többfajta kérdéstípus is szerepel az alkalmazásunkban ami lehetővé teszi a megrendelő számára akár azt is, hogy egyes kérdésekre csak az általa megadott válaszlehetőségek egyikével lehessen válaszolni.
 
 4. Funkcionális követelmények
 
-Az alkalmazás funkcionálisan nem bonyolult. Egy böngészőre van szükség ami támogatja a Php-t. A felhasználó miután összerakta kérdőívét, azt letöltheti vagy link-ként megoszthatja.
+Az alkalmazás funkcionálisan nem bonyolult. Egy böngészőre van szükség ami támogatja a Php-t. Letöltést nem igényel, a webes felületen könnyen kezelhető. A felhasználó miután befejezte a kitöltést, az általa megadott válaszok rögzítésre kerülnek a befejezés gomb lenyomása után.
 
 5. Rendszerre vonatkozó törvények, szabványok, ajánlások
 
@@ -27,19 +26,15 @@ A project az általunk tervezett egyszerű kialakítás alapján készült. Mive
 
 6. Jelenlegi üzleti folyamatok modellje
 
-Manapság minden elterjedt tervező program, amely online megtalálható, különbséget tesz prémium illetve átlagos felhasználói között ezt azzal érik el, hogy bizonyos funkciókat egy úgynevezett paywall mögé zárnak, amely lényegében a legfőbb funkciókat zárja el azoktól akiknek nem áll módjukban fizetni ezekért. Ez a megoldás több problémát is magában hordoz, mivel egy ilyen fizetés megvalósításához legtöbbször egy felhasználói fiókra van szükség, ez vonzza magával egy esetleges data-leak fennálhatóságát is, ami negatív hatással van a felhasználó bizalmára  és a cég megbízhatóságára, hírnevére is.
+Manapság léteznek olyan kérdőívek amleyek kitöltéséhez regisztráció szükséges, ami kedvezőtlen azok számára akik nem szeretnék megosztani a személyes információikat ezekkel az oldalakkal. Másrészről megtalálhatóak olyan kérdőívek is amelyek bár regisztrációt nem ,de néhány személyes adatot igényelnek a kitöltéshez ami a fent említett problémához vezethet.
 
 
 7. Igényelt üzleti folyamatok modellje
 
-Azért, hogy egy komfortosabb és kölcsönös érjünk el a felhasználókkal, egy olyan kérdőív szolgáltatást hozzunk létre, ami: -Nem igényel letöltést, így nem áll fenn a lehetőség hogy valaki a tárolt adatokhoz hozzáférjen -Nem igényel előzetes regisztrációt, így a személyes adataink biztonságban maradnak  –Nem szerver oldalon fut a szolgáltatás, így elérhető a felhasználó számára szinte bármikor, szervertől való függés nélkül.
-
+Azért, hogy egy komfortosabb és kölcsönös érjünk el a felhasználókkal, egy olyan kérdőív szolgáltatást hozzunk létre, ami: -Nem igényel letöltést, így nem áll fenn a lehetőség hogy valaki a tárolt adatokhoz hozzáférjen -Nem igényel előzetes regisztrációt, így a személyes adataink biztonságban maradnak –Nem szerver oldalon fut a szolgáltatás, így elérhető a felhasználó számára szinte bármikor, szervertől való függés nélkül.
 
 
 8. Fogalomszótár
 
 Survey-questioner: Kérdőív angolul
-
-paywall: Fizetőfal
-
 Data-leak: Adatszivárgás
