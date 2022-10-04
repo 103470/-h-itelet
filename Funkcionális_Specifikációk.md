@@ -10,13 +10,12 @@ Egy olyan kliens oldali alkalmazást fejlesztünk, ami az interneten elterjedt k
 
 2. Jelenlegi helyzet
 
-A megrendelő szeretne egy letisztult oldallal rendelkező, ingyenes, letöltést nem igénylő Survey-questioner alkalmazást ami nem szerver függő. A rendszer lehetőséget nyújt azoknak, akiknek nem áll módjukban fizetni hasonló szolgáltatásokért és/vagy nem hajlandóak megosztani adataikat, azzal veszélynek kitéve azokat.
-
+A megrendelő szeretne egy letisztult oldallal rendelkező, ingyenes, letöltést nem igénylő Survey-questionert, ami nem szerver függő. A rendszer lehetőséget nyújt a felhasználók számára, hogy megosszák véleményüket a megrendelővel, aki a felhasználók válaszai alapján szeretné fejleszteni meglévő weboldalát.
 
 
 3. Jelenlegi üzleti folyamatok modellje
 
-Manapság minden elterjedt tervező program, amely online megtalálható, különbséget tesz prémium illetve átlagos felhasználói között ezt azzal érik el, hogy bizonyos funkciókat egy úgynevezett paywall mögé zárnak, amely lényegében a legfőbb funkciókat zárja el azoktól akiknek nem áll módjukban fizetni ezekért. Ez a megoldás több problémát is magában hordoz, mivel egy ilyen fizetés megvalósításához legtöbbször egy felhasználói fiókra van szükség, ez vonzza magával egy esetleges data-leak fennálhatóságát is, ami negatív hatással van a felhasználó bizalmára  és a cég megbízhatóságára, hírnevére is.
+Manapság léteznek olyan kérdőívek amleyek kitöltéséhez regisztráció szükséges, ami kedvezőtlen azok számára akik nem szeretnék megosztani a személyes információikat ezekkel az oldalakkal. Másrészről megtalálhatóak olyan kérdőívek is amelyek bár regisztrációt nem ,de néhány személyes adatot igényelnek a kitöltéshez ami a fent említett problémához vezethet.
 
 
 
@@ -28,7 +27,7 @@ Azért, hogy egy komfortosabb és kölcsönös érjünk el a felhasználókkal, 
 
 5. Használati esetek
 
-A projektünk teljesen ingyenes és nem igényel regisztrációt, így nem zárjuk ki a felhasználók nagy részét és adataikat sem tesszük ki semmiféle veszélynek, valamint olyanoknak akik esetleg nem tudnák megfizetni egy hasonlóan részletes prémium program használatát. Egy könnyen kezelhető, letisztult, átlátható dizájnnal megfelelünk a kor követelményinek, valamint eleget teszünk a könnyű felfoghatóság és átláthatóság feltételeinek is, nem futtatunk szerveroldalon kódot ezáltal megfelelünk a folyamatos elérhetőség feltételének is.
+A projektünk teljesen ingyenes és nem igényel regisztrációt, így nem zárjuk ki a felhasználók nagy részét és adataikat sem tesszük ki semmiféle veszélynek. Egy könnyen kezelhető, letisztult, átlátható dizájnnal megfelelünk a kor követelményinek, valamint eleget teszünk a könnyű felfoghatóság és átláthatóság feltételeinek is, nem futtatunk szerveroldalon kódot ezáltal megfelelünk a folyamatos elérhetőség feltételének is.
 
 
 
@@ -44,7 +43,4 @@ A projektünk eleget tesz a legfrissebb 2022-es szabványoknak így tartalmazni 
 8. Fogslomszótár
 
 Survey-questioner: Kérdőív angolul
-
-paywall: Fizetőfal
-
 Data-leak: Adatszivárgás
