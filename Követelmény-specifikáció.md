@@ -31,9 +31,11 @@ Az előbbiek által nem ütközik jogszabályba.
 
 ### 6. Jelenlegi üzleti folyamatok modellje
 
-Manapság léteznek olyan Feedback Form-ok amleyek kitöltéséhez regisztráció szükséges, ami kedvezőtlen azok számára akik nem szeretnék megosztani a személyes információikat ezekkel az oldalakkal, félve attól,<br>
-hogy azok jogtalanul kerülnek felhasználásra. <br>
+Manapság léteznek olyan Feedback Form-ok amleyek kitöltéséhez regisztráció szükséges, ami kedvezőtlen azok számára akik nem szeretnék megosztani a személyes információikat ezekkel az oldalakkal, félve attól,hogy azok jogtalanul kerülnek felhasználásra. <br>
 Másrészről megtalálhatóak olyan Feedback Form-ok is amelyek bár regisztrációt nem ,de néhány személyes adatot igényelnek a kitöltéshez ami a fent említett problémához vezethet.
+
+
+![Jelenlegi_uzleti_foly_abra drawio](https://user-images.githubusercontent.com/113610538/194551860-f2142686-3d0c-48f4-b96a-018c489d3686.png)
 
 
 ### 7. Igényelt üzleti folyamatok modellje
@@ -45,14 +47,17 @@ Azért, hogy egy komfortosabb és letisztult felület jöjjön létre, egy olyan
 - Az felhasználó által közölt válaszok egy adatbáziban kerülnek tárolásra, aminek segítségével a megrendelő meg tudja később tekinteni az adott válaszokat.
 
 
+![Igenyelt_uzleti_foly_abra drawio](https://user-images.githubusercontent.com/113610538/194551900-1d4f97e6-7b23-48ce-9ac6-b31730b03d79.png)
+
+
 ### 8. Követelmény lista
 
-K0: A felület letisztult, könnyen kezelhető legyen.
-K1: A válaszokat egy adatbázisban kell eltárolni, amit később áttekintve,a megrendelő a válaszok alapján fejleszteni tudja meglévő weboldalán.
-K2: Az alkalmazáshoz a jövőben hozzáadható legyen több, esetleg új kérdéstípus.
+K0: A felület letisztult, könnyen kezelhető legyen.<br>
+K1: A válaszokat egy adatbázisban kell eltárolni, amit később áttekintve,a megrendelő a válaszok alapján fejleszteni tudja meglévő weboldalán.<br>
+K2: Az alkalmazáshoz a jövőben hozzáadható legyen több, esetleg új kérdéstípus.<br>
 
 
 ### 9. Fogalomszótár
 
-Survey-questioner: Kérdőív angolul
+Feedback-Form: Visszajelző űrlap
 Data-leak: Adatszivárgás
