@@ -21,6 +21,8 @@ hogy azok jogtalanul kerülnek felhasználásra. <br>
 Másrészről megtalálhatóak olyan Feedback Form-ok is amelyek bár regisztrációt nem ,de néhány személyes adatot igényelnek a kitöltéshez ami a fent említett problémához vezethet.
 
 
+![Jelenlegi_uzleti_foly_abra drawio](https://user-images.githubusercontent.com/113610538/194552763-813b0e2a-818a-455b-bbe7-afb936a80cd3.png)
+
 
 ### 4. Igényelt üzleti folyamatok modellje
 
@@ -31,6 +33,7 @@ Azért, hogy egy komfortosabb és kölcsönös érjünk el a felhasználókkal, 
 - Az felhasználó által közölt válaszok egy adatbáziban kerülnek tárolásra, aminek segítségével a megrendelő meg tudja később tekinteni az adott válaszokat.
 
 
+![Igenyelt_uzleti_foly_abra drawio](https://user-images.githubusercontent.com/113610538/194552734-c2448268-adb2-44a8-b495-c4d4e0c3e141.png)
 
 
 ### 5. Használati esetek
@@ -55,5 +58,5 @@ K2: A adatbázisban a jövőben létrehozhatók újabb részak amiben adatot tud
 
 ### 8. Fogalomszótár
 
-Survey-questioner: Kérdőív angolul
+Feedback-Form: Visszajelző űrlap
 Data-leak: Adatszivárgás
