@@ -24,6 +24,12 @@ Másrészről megtalálhatóak olyan Feedback Form-ok is amelyek bár regisztrá
 ![Jelenlegi_uzleti_foly_abra drawio](https://user-images.githubusercontent.com/113610538/194552763-813b0e2a-818a-455b-bbe7-afb936a80cd3.png)
 
 
+### 3. Vágyálom rendszer
+A csapatunk célja, hogy létrehozzunk egy olyan alkalmazást, amely ingyenes, regisztrációmentes és letisztult felület, amely könnyen kezelhető bármely felhasználó számára.  <br>
+Többfajta kérdéstípus is szerepel az alkalmazásunkban ami lehetővé teszi a megrendelő számára akár azt is, hogy egyes kérdésekre csak az általa megadott válaszlehetőségek egyikével lehessen válaszolni.  <br>
+
+
+
 ### 4. Igényelt üzleti folyamatok modellje
 
 Azért, hogy egy komfortosabb és kölcsönös érjünk el a felhasználókkal, egy olyan kérdőív szolgáltatást hozzunk létre, ami:
