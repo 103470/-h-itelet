@@ -15,6 +15,19 @@
 
  Backend felelős: Magos Balázs (JJ3NZ0) -PHP és tesztelés  <br>
  Feladata a háttérben működő programok megírása, PHP kód, és az eredmény kiértékelés.  <br>
+ 
+ Ütemtervünk, amelyet sikeresen tartottunk:  <br>
+ 2022.09.14 Brainstorming
+ 2022.09.20 Követelmény és funkcionális specifikációk elkészítése
+ 2022.09.21 Első látványtervek megvalósítása
+ 2022.10.03 Rendszerterv elkészítése
+ 2022.10.08 Kódolás és az alkalmazás tesztelése
+ 2022.10.10 Release modell létrejötte
+ 
+ Mérföldköveink:  <br>
+ Feedback-formunk személyreszabhatóvá tétele a weboldalon keresztül 
+ Országos ismeretségre törés (15 000 felhasználó)
+ 
 
 ### 3,Követelmények
  - Webes megvalósítás.
