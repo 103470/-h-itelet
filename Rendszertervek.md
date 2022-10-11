@@ -69,6 +69,18 @@
 ### 10, Karbantartási terv
  Az alkalmazás bővítési lehetőségét fenntartjuk.
 
-### 11, Implementációs terv
+### 11, Adatbázis terv
+Logikai adatmodell
+
+
+  ![Logikai kapcsolatok](https://user-images.githubusercontent.com/113610878/195155164-4c504bbc-61e3-4221-a8b7-9f19b2de3b4d.png)
+  
+Fizikai adatmodell
+
+
+  ![Fizikai adatmodell](https://user-images.githubusercontent.com/113610878/195155279-1a02d31d-b188-4e92-8e1e-599521db4a6d.png)
+
+
+### 12, Implementációs terv
  A felület HTML és CSS nyelven fog készülni valamint PHP-t is felhasználunk az alkalmazás készítéséhez.  <br>
  A jobb átláthatóság és a továbbfejleszthetőség érdekében elkülönítve szeretnénk kezelni ezeket a technológiákat és utólag kapcsoljuk össze őket.  <br>
