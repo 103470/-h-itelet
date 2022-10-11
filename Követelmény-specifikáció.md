@@ -12,12 +12,16 @@ Lehetőségünk van ezt a felületet szélesebb körben terjeszteni, megismertet
 ### 2. Jelenlegi helyzet
 
 A megrendelő szeretne egy letisztult oldallal rendelkező, ingyenes, letöltést nem igénylő Feedback Form-ot, amely a megadott válaszokat egy adatbázisban tárolja el.  <br>
-A rendszer lehetőséget nyújt a felhasználók számára, hogy megosszák véleményüket a megrendelővel, aki a felhasználók válaszai alapján szeretne fejleszteni a meglévő weboldalát.
+A rendszer lehetőséget nyújt a felhasználók számára, hogy megosszák véleményüket a megrendelővel, aki a felhasználók válaszai alapján szeretne fejleszteni a meglévő weboldalát.<br>
+A rendszernek rendelkeznie kell egy olyan résszel, ahol a megrendelő megtekinheti a felhasználók által megadott válaszokat egy táblázatban elhelyezve.<br>
+A táblázat megtekintéséhez egy bejelentkezési rész elkészítése is feltétel, ami az információk jogtalan kézbe kerülésének kiküszöbölésésre szolgál. A bejelentkezéshez a megrendelő által megadott felhasználónév és jelszó szükséges.
+
 
 ### 3. Vágyálom rendszer
 
 A csapatunk célja, hogy létrehozzunk egy olyan alkalmazást, amely ingyenes, regisztrációmentes és letisztult felület, amely könnyen kezelhető bármely felhasználó számára.  <br>
-Többfajta kérdéstípus is szerepel az alkalmazásunkban ami lehetővé teszi a megrendelő számára akár azt is, hogy egyes kérdésekre csak az általa megadott válaszlehetőségek egyikével lehessen válaszolni.
+Többfajta kérdéstípus is szerepel az alkalmazásunkban ami lehetővé teszi a megrendelő számára akár azt is, hogy egyes kérdésekre csak az általa megadott válaszlehetőségek egyikével lehessen válaszolni.<br>
+A táblázatban megjelenített adatok oldalán egy letöltési lehetőség elkészítése, amely lehetővé teszi a megrendelő számára az adatok tárolását az adatbázison kívül, illetve a táblázat nyomtatását.<br>
 
 ### 4. Funkcionális követelmények
 
