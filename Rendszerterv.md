@@ -59,9 +59,9 @@
 ### 8, Teszt terv
  Az alkalmazás elkészítése során szükség van a folyamatos tesztelésre. Tesztelni kell a gombok működését, valamint az adatok változásait
 
- Unit teszt: 2022.10.03: Metódusok működése és működésének biztosítása teszt során megtörtént és hiba nélkül lefutott.
- - Magos Balázs Alpha teszt: 2022.10.01: A projektet leteszteltük Mozilla Firefox, Google Chrome és Microsoft Edge környezetben, kisebb vizuális torzulással de működését megőrizte.
- - Kémeri Martin, Magos Balázs Béta: 2022.10.03: A projekt letesztelése különböző böngészőkben, különböző felbontásokban és telefonon, kisebb vizuális torzulás de a funkciók működése megmaradt.
+ Unit teszt: 2022.10.11: Metódusok működése és működésének biztosítása teszt során megtörtént és hiba nélkül lefutott.
+ - Magos Balázs Alpha teszt: 2022.10.11: A projektet leteszteltük Mozilla Firefox, Google Chrome és Microsoft Edge környezetben, kisebb vizuális torzulással de működését megőrizte.
+ - Kémeri Martin, Magos Balázs Béta: 2022.10.11: A projekt letesztelése különböző böngészőkben, különböző felbontásokban és telefonon, kisebb vizuális torzulás de a funkciók működése megmaradt.
 
 ### 9, Telepítési terv
  Az alkalmazás futtatásához egy általános felhasználású böngészőre van szükség, nem igényel külön telepítést.
