@@ -13,7 +13,7 @@ Mint az 1. pontban is leírtuk a tesztelés fő célja a hibák kiszűrése, és
 ### 3.Tesztek
 
 A tesztek el lettek osztva a fejlesztők között.<br>
--Frontend: Kémeri Martin SSR0TI
+-Frontend: Kémeri Martin SSR0TI<br>
 -Backend: Magos Balázs JJ3NZ0
 
 ### 4.Kémeri Martin
