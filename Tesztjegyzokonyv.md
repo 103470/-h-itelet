@@ -35,5 +35,10 @@ Hibás tesztek<br>
 Sikeres tesztek<br>
 
 
+![Tesztterv_sikeres](https://user-images.githubusercontent.com/113610878/195425754-ff959b5c-fbaa-4fd9-b595-7207f0611400.png)
+
+
 Hibás tesztek<br>
 
+
+![Tesztterv_sikertelen](https://user-images.githubusercontent.com/113610878/195425827-fc7e576f-68f1-4088-a73b-0ffaa2406565.png)
