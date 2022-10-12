@@ -21,7 +21,13 @@ A tesztek el lettek osztva a fejlesztők között.<br>
 Sikeres tesztek<br>
 
 
+![Megnevezetlen diagram drawio](https://user-images.githubusercontent.com/113610538/195423381-2ef6c65e-0419-4a86-bb1b-402dda4c85eb.png)
+
+
 Hibás tesztek<br>
+
+
+![Megnevezetlen diagram drawio (1)](https://user-images.githubusercontent.com/113610538/195423419-5a5d7447-2444-444a-957c-08a976546cd0.png)
 
 
 ### 5.Magos Balázs
